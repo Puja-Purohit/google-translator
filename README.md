@@ -79,19 +79,3 @@ translator.translateAndPrint("This means 'testing' in chinese", to: 'zh-cn');
 # API
 For full API docs take a look at https://pub.dartlang.org/documentation/translator/latest/
 
-# Support my work :)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q04C63Q)
-
-
-# License
-MIT License
-
-Copyright © 2021 Gabriel Pacheco
-
-
-# Disclaimer
-This package is developed for educational purposes only. Do not depend on this package as it may break anytime as it is based on crawling the Google Translate website. Consider buying Official Google Translate API for other types of usage.
-
-
-
-
